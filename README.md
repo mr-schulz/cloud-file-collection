@@ -51,6 +51,7 @@ Sollten Sie weitere wichtige Dokumente in der Listung vermissen, so können Sie 
 
 - [2018: Konzeption und Umsetzung eines automatischen Kubernetes Deployments in die ICC der HAW in Hinblick auf spätere Weiterverwendung in der Lehre.](https://reposit.haw-hamburg.de/bitstream/20.500.12738/8436/1/BA_NARJES.pdf)
 - [2018: Komposition von Microservices mittels Containern auf Basis von Feature Branches](https://www2.htw-dresden.de/~jvogt/abschlussarbeiten/Bachelorarbeit_KongMinhCap.pdf)
+- [2020: Deploying Software in the Cloud with CI/CD Pipelines](https://www.theseus.fi/bitstream/handle/10024/345618/Thesis_Ramesh_Ghimire_1.pdf?sequence=2)
 
 ### Masterarbeiten
 
@@ -77,7 +78,10 @@ Sollten Sie weitere wichtige Dokumente in der Listung vermissen, so können Sie 
 
 ## Tutorials und sonstige Dokumente
 
+- [CI/CD with Docker and Kubernetes](https://wpblog.semaphoreci.com/wp-content/uploads/2020/05/CICD_with_Docker_Kubernetes_Semaphore.pdf)
 - []()
 - []()
 - []()
-- []()
+
+### Produkte/Herstellerlösungen
+- [Building, running, and managing Linux containers on Red Hat Enterprise Linux 8](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/building_running_and_managing_containers/red_hat_enterprise_linux-8-building_running_and_managing_containers-en-us.pdf)
